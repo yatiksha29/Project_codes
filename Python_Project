@@ -1,3 +1,4 @@
+#creating a word guessing adventure:text based game
 import random
 
 def choose_word_with_hint():
